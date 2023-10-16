@@ -3,9 +3,6 @@
 <body style="background-color:black;">
 </body>
 <head>
-<title>
-Eylül
-</title>
 </head>
 <h1> <center> <font color = red> <b> <font size=7> EYLÜLE ÇOK AŞIĞIM </font> </b> </font> </center> </h1>
 <body>
